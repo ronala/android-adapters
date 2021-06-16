@@ -4,8 +4,8 @@ Turn your app into a business with ironSource. Maximize your ad revenue, grow yo
 
 ## Getting started
 Use this documentation to integrate the ironSource mediated networks:
-https://developers.ironsrc.com/ironsource-mobile/android/mediation-networks-android/
 
+<a href="https://developers.ironsrc.com/ironsource-mobile/android/mediation-networks-android/" target="_blank">https://developers.ironsrc.com/ironsource-mobile/android/mediation-networks-android/</a>
 
 ## Contact Us
 For any question please contact us [here](https://ironsrc.formtitan.com/knowledge-center#/). 
